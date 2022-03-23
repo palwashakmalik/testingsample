@@ -1,0 +1,5 @@
+import redis 
+sql_db = sql_connect('localhost', 22983)
+
+redis_conn = Redis.connect('localhost')
+
