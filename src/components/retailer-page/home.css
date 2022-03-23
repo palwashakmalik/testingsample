@@ -1,0 +1,13 @@
+.belowBar {
+    margin: 25% 25%;
+    background-color: red !important;
+    width: 50%;
+    border: 2px solid #ff9800 !important;
+  }
+  
+  .divAlign {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
